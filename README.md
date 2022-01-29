@@ -1,2 +1,2 @@
 # COVID-19-MATLAB-GUI
-This was designed to test out MatLab's GUI abilities.
+This project is a COVID-19 questionnaire that tests whether you are safe to go in public or if you should quarantine.
